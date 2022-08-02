@@ -1,0 +1,3 @@
+@id=720d3d29-0ea4-4416-97af-409d75ad7e27
+
+DELETE  http://localhost:5193/loanapi/{{ id }}

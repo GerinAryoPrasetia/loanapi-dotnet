@@ -1,0 +1,11 @@
+@id=720d3d29-0ea4-4416-97af-409d75ad7e27
+
+PUT  http://localhost:5193/loanapi/{{ id }}
+Content-Type: application/json
+
+{
+    "jenisPinjaman" : "Rumah",
+    "nominal" : 9999,
+    "status" : false,
+    "applicationDate": "2022-04-08T08:00:00"
+}

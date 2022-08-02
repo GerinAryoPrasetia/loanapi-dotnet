@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoanApi/1.0.0": {
+        "dependencies": {
+          "LoanApi.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "LoanApi.dll": {}
+        }
+      },
+      "LoanApi.Contracts/1.0.0": {
+        "runtime": {
+          "LoanApi.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanApi.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+POST http://localhost:5193/loanapi
+Content-Type: application/json
+
+{
+    "jenisPinjaman" : "Mobil",
+    "nominal" : 9999,
+    "status" : false,
+    "applicationDate": "2022-04-08T08:00:00"
+}
+
+###

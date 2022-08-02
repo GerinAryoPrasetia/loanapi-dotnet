@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LoanApi.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LoanApi.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoanApi.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanApi.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../LoanApi.Contracts/LoanApi.Contracts.csproj",
+      "msbuildProject": "../LoanApi.Contracts/LoanApi.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LoanApi.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/livay/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/livay/code/LoanApi/LoanApi/LoanApi.csproj",
+      "projectName": "LoanApi",
+      "projectPath": "/home/livay/code/LoanApi/LoanApi/LoanApi.csproj",
+      "packagesPath": "/home/livay/.nuget/packages/",
+      "outputPath": "/home/livay/code/LoanApi/LoanApi/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/livay/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/livay/code/LoanApi/LoanApi.Contracts/LoanApi.Contracts.csproj": {
+              "projectPath": "/home/livay/code/LoanApi/LoanApi.Contracts/LoanApi.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

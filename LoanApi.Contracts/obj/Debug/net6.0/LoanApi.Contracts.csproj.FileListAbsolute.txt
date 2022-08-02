@@ -1,0 +1,12 @@
+/home/livay/code/LoanApi/LoanApi.Contracts/bin/Debug/net6.0/LoanApi.Contracts.deps.json
+/home/livay/code/LoanApi/LoanApi.Contracts/bin/Debug/net6.0/LoanApi.Contracts.dll
+/home/livay/code/LoanApi/LoanApi.Contracts/bin/Debug/net6.0/LoanApi.Contracts.pdb
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.csproj.AssemblyReference.cache
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.AssemblyInfoInputs.cache
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.AssemblyInfo.cs
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.csproj.CoreCompileInputs.cache
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.dll
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/refint/LoanApi.Contracts.dll
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/LoanApi.Contracts.pdb
+/home/livay/code/LoanApi/LoanApi.Contracts/obj/Debug/net6.0/ref/LoanApi.Contracts.dll
